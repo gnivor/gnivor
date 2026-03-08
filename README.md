@@ -1,5 +1,7 @@
 ### Hi there 👋
+<!--
 - Email: gnivor.int@gmail.com
+-->
 
 <!--
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
